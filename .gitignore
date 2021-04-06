@@ -1,3 +1,7 @@
+*.bib
+*.pdf
+crap*
+
 # Compiled Lua sources
 luac.out
 
